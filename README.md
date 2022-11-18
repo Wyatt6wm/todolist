@@ -6,13 +6,13 @@
 
 ![开始页面](https://raw.githubusercontent.com/Wyatt6wm/todolist/main/docs/%E5%BC%80%E5%A7%8B%E9%A1%B5%E9%9D%A2.png)
 
-![主页](./docs/主页.png)
+![主页](https://raw.githubusercontent.com/Wyatt6wm/todolist/main/docs/%E4%B8%BB%E9%A1%B5.png)
 
-![添加任务](./docs/添加任务.png)
+![添加任务](https://raw.githubusercontent.com/Wyatt6wm/todolist/main/docs/%E6%B7%BB%E5%8A%A0%E4%BB%BB%E5%8A%A1.png)
 
-![完成任务](./docs/完成任务.png)
+![完成任务](https://raw.githubusercontent.com/Wyatt6wm/todolist/main/docs/%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1.png)
 
-![清除已完成](./docs/清除已完成.png)
+![清除已完成](https://raw.githubusercontent.com/Wyatt6wm/todolist/main/docs/%E6%B8%85%E9%99%A4%E5%B7%B2%E5%AE%8C%E6%88%90.png)
 
 ## Project setup
 ```
